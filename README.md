@@ -1,1 +1,1 @@
-### This repository contains resources for the Introduction to Data Storytelling class (R).
+This repository contains resources for the Introduction to Data Storytelling class (R).
