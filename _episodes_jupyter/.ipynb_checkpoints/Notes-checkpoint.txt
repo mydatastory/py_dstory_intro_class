@@ -1,0 +1,10 @@
+anova issues with coef() and others
+
+central_tendency is good
+
+correlation, not sure how to get 99%
+
+subsetting graphs issues
+
+data_management is good
+

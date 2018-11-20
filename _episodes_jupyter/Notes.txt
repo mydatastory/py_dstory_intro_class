@@ -6,3 +6,5 @@ correlation, not sure how to get 99%
 
 subsetting graphs issues
 
+data_management is good
+
