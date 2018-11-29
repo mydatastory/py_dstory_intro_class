@@ -8,4 +8,11 @@ subsetting graphs issues
 
 data_management is good
 
-test add comment
+Keep in mind its an intro with statstics in mind
+
+No 1-sided t-tests
+
+For posthoc_tests, cant find Scheffe Tests, spelling error in Problem Set(1)
+
+Come back to power
+
