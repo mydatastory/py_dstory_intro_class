@@ -16,3 +16,7 @@ For posthoc_tests, cant find Scheffe Tests, spelling error in Problem Set(1)
 
 Come back to power
 
+regression has the abline function, still want to add the ability to put the model in as a parameter.
+
+standard scores shows how to make easy veritical line
+
