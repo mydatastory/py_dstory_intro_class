@@ -1,12 +1,8 @@
 anova issues with coef() and others
 
-central_tendency is good
-
 correlation, not sure how to get 99%
 
 subsetting graphs issues
-
-data_management is good
 
 Keep in mind its an intro with statstics in mind
 
@@ -20,3 +16,5 @@ regression has the abline function, still want to add the ability to put the mod
 
 standard scores shows how to make easy veritical line
 
+Building Your Own Data Science Platform With Python & Docker
+https://www.youtube.com/watch?v=NC2wXYHBrL0
