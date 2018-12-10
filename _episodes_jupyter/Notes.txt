@@ -1,6 +1,8 @@
-correlation, not sure how to get 99%
+These issues still need to be researched.  G. Harvey (12.10.18).
 
-subsetting graphs issues
+Correlation, not sure how to get 99%
+
+Subsetting graphs issues
 
 Keep in mind its an intro with statstics in mind
 
@@ -8,8 +10,8 @@ No 1-sided t-tests
 
 For posthoc_tests, cant find Scheffe Tests, spelling error in Problem Set(1)
 
-regression has the abline function, still want to add the ability to put the model in as a parameter.
+Regression has the abline function, still want to add the ability to put the model in as a parameter.
 
-standard scores shows how to make easy veritical line
+Standard scores shows how to make easy veritical line
 
 Power part of power is missing information
