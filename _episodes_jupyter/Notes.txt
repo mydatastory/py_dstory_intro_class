@@ -1,4 +1,4 @@
-These issues still need to be researched.  G. Harvey (12.10.18).
+These issues still need to be researched.  The statsmethod library mirrors R functionality.  G. Harvey (12.10.18).
 
 Correlation, not sure how to get 99%
 
