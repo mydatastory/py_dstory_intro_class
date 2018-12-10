@@ -1,5 +1,3 @@
-anova issues with coef() and others
-
 correlation, not sure how to get 99%
 
 subsetting graphs issues
@@ -10,11 +8,8 @@ No 1-sided t-tests
 
 For posthoc_tests, cant find Scheffe Tests, spelling error in Problem Set(1)
 
-Come back to power
-
 regression has the abline function, still want to add the ability to put the model in as a parameter.
 
 standard scores shows how to make easy veritical line
 
-Building Your Own Data Science Platform With Python & Docker
-https://www.youtube.com/watch?v=NC2wXYHBrL0
+Power part of power is missing information
