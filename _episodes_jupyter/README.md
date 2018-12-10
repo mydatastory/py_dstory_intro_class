@@ -4,8 +4,6 @@ Correlation, not sure how to get 99%
 
 Subsetting graphs issues
 
-Keep in mind its an intro with statstics in mind
-
 No 1-sided t-tests
 
 For posthoc_tests, cant find Scheffe Tests, spelling error in Problem Set(1)
