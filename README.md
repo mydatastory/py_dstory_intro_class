@@ -1,1 +1,1 @@
-# py_dstory_intro_class
+This repository contains resources for the Introduction to Data Storytelling class (Python).
