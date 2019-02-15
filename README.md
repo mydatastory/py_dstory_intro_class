@@ -1,1 +1,1 @@
-This repository contains resources for the Introduction to Data Storytelling class (Python).
+## Introduction to Data Storytelling (Python)
